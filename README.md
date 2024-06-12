@@ -139,7 +139,7 @@ lines(fitted(regression_model), col = "red")
 legend("topright", legend = c("Actual Pension", "Fitted Values"), col = c("blue", "red"), lty = 1)
 ```
 - **Environment Results**
-    - ![Link to the Environment Pension_Fund_Analysis](images/Environment.jpg)
+    - ![Link to the Environment Pension_Fund_Analysis](images/Environment.JPG)
       
 ## How to Run
 
