@@ -138,7 +138,7 @@ plot(analysis_data$Pension, type = "l", col = "blue", xlab = "Time", ylab = "Val
 lines(fitted(regression_model), col = "red")
 legend("topright", legend = c("Actual Pension", "Fitted Values"), col = c("blue", "red"), lty = 1)
 ```
-## Environment Results
+** Environment Results **
     - ![Link to the Environment Pension_Fund_Analysis](images/Environment.JPG)
       
 ## How to Run
