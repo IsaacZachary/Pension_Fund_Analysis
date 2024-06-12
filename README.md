@@ -37,7 +37,7 @@ This project aims to model the growth of pension funds in Kenya using the Autore
 ## Results
 
 - **Simulated Pension Data (2022-2025):**
-    - The ARIMA model forecasts the growth of pension funds up to 2027, showing an increasing trend over time.
+    - The ARIMA model Simulates Pension Data to 48 observations (2022-2025)
     - ![Link to the plot of Simulated Pension Data](images/simulated_pension_data.jpg)
 
 - **Pension Data Forecast (2022-2027):**
