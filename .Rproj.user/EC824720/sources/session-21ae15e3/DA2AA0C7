@@ -1,0 +1,28 @@
+{
+    "id": "DA2AA0C7",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1718210128767.0,
+    "source_on_save": false,
+    "relative_order": 10,
+    "properties": {
+        "id": "b19dd65fc05b45ad915e3ecb4a1fcefc",
+        "name": "pension_arima_fit",
+        "title": "pension_arima_fit",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2317259397633,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1718210128767,
+    "read_only": false,
+    "read_only_alternatives": []
+}

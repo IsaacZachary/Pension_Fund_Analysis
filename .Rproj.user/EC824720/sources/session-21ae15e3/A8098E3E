@@ -1,0 +1,28 @@
+{
+    "id": "A8098E3E",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1718210110082.0,
+    "source_on_save": false,
+    "relative_order": 9,
+    "properties": {
+        "id": "a25c8be170164d389280d15631f3b174",
+        "name": "pension_forecast",
+        "title": "pension_forecast",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7307218077880512332,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1718210110082,
+    "read_only": false,
+    "read_only_alternatives": []
+}

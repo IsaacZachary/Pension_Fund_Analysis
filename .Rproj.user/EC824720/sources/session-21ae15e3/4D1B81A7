@@ -1,0 +1,28 @@
+{
+    "id": "4D1B81A7",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1718209792091.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "id": "db630da6faa7468f99b56e703174cdaf",
+        "name": "combined_arima_fit",
+        "title": "combined_arima_fit",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2317259397824,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1718209792091,
+    "read_only": false,
+    "read_only_alternatives": []
+}
