@@ -1,7 +1,5 @@
 # Pension Fund Analysis Project
 
-## Overview
-
 This project aims to model the growth of pension funds in Kenya using the Autoregressive Integrated Moving Average (ARIMA) model and analyze the impact of external factors on this growth. The specific objectives are:
 
 1. **To forecast the growth of pension funds in Kenya using the ARIMA model.**
