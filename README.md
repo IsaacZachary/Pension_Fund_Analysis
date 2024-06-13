@@ -38,15 +38,15 @@ This project aims to model the growth of pension funds in Kenya using the Autore
 
 - **Simulated Pension Data (2022-2025):**
     - The ARIMA model Simulates Pension Data to 48 observations (2022-2025)
-    - ![Link to the plot of Simulated Pension Data](images/simulated_pension_data_2022_2025.jpg)
+    - ![Link to the plot of Simulated Pension Data](images/simulated_pension_data_2022_2025.png)
 
 - **Pension Data Forecast (2022-2027):**
     - The ARIMA model forecasts the growth of pension funds up to 2027, showing an increasing trend over time.
-    - ![Link to the plot of Pension Data Forecast](images/final_pension_forecast_2022_2027.jpg)
+    - ![Link to the plot of Pension Data Forecast](images/final_pension_forecast_2022_2027.png)
     - 
 - **Regression Analysis Results:**
     - The regression analysis reveals a significant impact of central bank rates and inflation rates on pension contributions.
-    - ![Link to Regression Analysis Results](images/regression_analysis_results.jpg)
+    - ![Link to Regression Analysis Results](images/regression_analysis_results.png)
 
 ## Required Libraries and Packages
 
