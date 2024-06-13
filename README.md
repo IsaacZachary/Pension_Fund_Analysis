@@ -1,7 +1,7 @@
 # Pension Fund Analysis Research
 ![R Programming](https://bcrf.biochem.wisc.edu/wp-content/uploads/sites/850/2018/12/featured-2.png)
 
-This project aims to model the growth of pension funds in Kenya using the Autoregressive Integrated Moving Average (ARIMA) model and analyze the impact of external factors on this growth. The specific objectives are:
+This R project aims to model the growth of pension funds in Kenya using the Autoregressive Integrated Moving Average (ARIMA) model and analyze the impact of external factors on this growth. The specific objectives are:
 
 1. **To forecast the growth of pension funds in Kenya using the ARIMA model.**
 2. **To analyze the impact of external factors on the growth of pension funds.**
